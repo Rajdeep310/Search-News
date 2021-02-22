@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+header{
+    background: rgb(44, 135, 238);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.news{
+    margin: 20px;
+}
+.headlines{
+    color: rgb(33, 27, 39);
+    text-align: center;
+}
+.logo{
+    color: white;
+    font-size: 40px;
+}
+header input{
+    font-size: 20px;
+    margin: 20px 0;
+}
